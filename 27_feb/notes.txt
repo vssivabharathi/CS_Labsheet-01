@@ -1,0 +1,4 @@
+//write a program to find  the sum of  first n natural number
+//produc tof first n natural numbers
+
+//fabonnics triangle
